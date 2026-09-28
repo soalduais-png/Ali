@@ -1,0 +1,6 @@
+{
+  "name": "نظام مطعمي",
+  "description": "نظام متكامل لإدارة وتوصيل طلبات المطعم مع واجهات العميل والمندوب والإدارة وتتبع حي على الخريطة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

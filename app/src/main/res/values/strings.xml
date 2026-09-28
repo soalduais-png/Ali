@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">نظام مطعمي</string>
+    <string name="role_customer">واجهة العميل</string>
+    <string name="role_driver">واجهة المندوب</string>
+    <string name="role_admin">إدارة المطعم</string>
+    <string name="role_srs">وثيقة SRS والهيكلة</string>
+    <string name="currency_sar">ر.س</string>
+</resources>
